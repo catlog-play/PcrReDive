@@ -12,12 +12,14 @@
         "isolatedModules": true,
         "moduleDetection": "force",
         "noEmit": true,
-
         /* Linting */
         "strict": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
-        "noFallthroughCasesInSwitch": true
+        "noFallthroughCasesInSwitch": true,
+        "typeRoots": [
+            "./src/@types/"
+        ]
     },
     "include": ["src"]
 }

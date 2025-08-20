@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/@types/main.d.ts","./src/@types/spine-canvas.d.ts","./src/components/comp.ts","./src/components/drawer.ts","./src/model/panel.ts","./src/model/sprite.ts","./src/model/base.ts","./src/tools/assetloader.ts"],"version":"5.9.2"}

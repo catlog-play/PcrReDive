@@ -1,0 +1,2603 @@
+[
+    {
+        "id": "100801",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "雪",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "21",
+        "jpName": "ユキ"
+    },
+    {
+        "id": "100101",
+        "groupName": "破晓之星",
+        "name": "日和莉",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "ヒヨリ"
+    },
+    {
+        "id": "100901",
+        "groupName": "暮光流星群",
+        "name": "杏奈",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "アンナ"
+    },
+    {
+        "id": "100201",
+        "groupName": "破晓之星",
+        "name": "优衣",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "ユイ"
+    },
+    {
+        "id": "100301",
+        "groupName": "破晓之星",
+        "name": "怜",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "レイ"
+    },
+    {
+        "id": "100701",
+        "groupName": "恶魔伪王国军",
+        "name": "宫子",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "ミヤコ"
+    },
+    {
+        "id": "103101",
+        "groupName": "恶魔伪王国军",
+        "name": "忍",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "シノブ"
+    },
+    {
+        "id": "101701",
+        "groupName": "自卫团",
+        "name": "香织",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "カオリ"
+    },
+    {
+        "id": "101001",
+        "groupName": "自卫团",
+        "name": "真步",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "マホ"
+    },
+    {
+        "id": "104301",
+        "groupName": "自卫团",
+        "name": "真琴",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "マコト"
+    },
+    {
+        "id": "101101",
+        "groupName": "拉比林斯",
+        "name": "璃乃",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "8",
+        "jpName": "リノ"
+    },
+    {
+        "id": "104901",
+        "groupName": "拉比林斯",
+        "name": "静流",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "シズル"
+    },
+    {
+        "id": "101801",
+        "groupName": "月光学院",
+        "name": "伊绪",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "イオ"
+    },
+    {
+        "id": "101601",
+        "groupName": "月光学院",
+        "name": "铃奈",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "8",
+        "jpName": "スズナ"
+    },
+    {
+        "id": "105001",
+        "groupName": "月光学院",
+        "name": "美咲",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "ミサキ"
+    },
+    {
+        "id": "102001",
+        "groupName": "小小甜心",
+        "name": "美美",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ミミ"
+    },
+    {
+        "id": "102101",
+        "groupName": "咲恋救济院",
+        "name": "胡桃",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "クルミ"
+    },
+    {
+        "id": "102301",
+        "groupName": "咲恋救济院",
+        "name": "绫音",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "アヤネ"
+    },
+    {
+        "id": "102801",
+        "groupName": "咲恋救济院",
+        "name": "咲恋",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "サレン"
+    },
+    {
+        "id": "102501",
+        "groupName": "咲恋救济院",
+        "name": "铃莓",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "スズメ"
+    },
+    {
+        "id": "103801",
+        "groupName": "伊丽莎白牧场",
+        "name": "栞",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "8",
+        "jpName": "シオリ"
+    },
+    {
+        "id": "105201",
+        "groupName": "伊丽莎白牧场",
+        "name": "莉玛",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "リマ"
+    },
+    {
+        "id": "103301",
+        "groupName": "伊丽莎白牧场",
+        "name": "真阳",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "マヒル"
+    },
+    {
+        "id": "104001",
+        "groupName": "森林守卫",
+        "name": "碧",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "8",
+        "jpName": "アオイ"
+    },
+    {
+        "id": "101201",
+        "groupName": "森林守卫",
+        "name": "初音",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "ハツネ"
+    },
+    {
+        "id": "104201",
+        "groupName": "慈乐之音",
+        "name": "千歌",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "チカ"
+    },
+    {
+        "id": "102901",
+        "groupName": "慈乐之音",
+        "name": "望",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "ノゾミ"
+    },
+    {
+        "id": "105101",
+        "groupName": "暮光流星群",
+        "name": "深月",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ミツキ"
+    },
+    {
+        "id": "102701",
+        "groupName": "暮光流星群",
+        "name": "惠理子",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "エリコ"
+    },
+    {
+        "id": "103201",
+        "groupName": "墨丘利财团",
+        "name": "秋乃",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "アキノ"
+    },
+    {
+        "id": "104801",
+        "groupName": "墨丘利财团",
+        "name": "美冬",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "ミフユ"
+    },
+    {
+        "id": "103401",
+        "groupName": "墨丘利财团",
+        "name": "由加莉",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ユカリ"
+    },
+    {
+        "id": "105301",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "莫妮卡",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "モニカ"
+    },
+    {
+        "id": "104501",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "空花",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "2",
+        "jpName": "クウカ"
+    },
+    {
+        "id": "103001",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "妮侬",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ニノン"
+    },
+    {
+        "id": "105901",
+        "groupName": "美食殿堂",
+        "name": "可可萝",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "コッコロ"
+    },
+    {
+        "id": "106001",
+        "groupName": "美食殿堂",
+        "name": "凯露",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "キャル"
+    },
+    {
+        "id": "105701",
+        "groupName": "？？？",
+        "name": "姬塔",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ジータ"
+    },
+    {
+        "id": "100601",
+        "groupName": "恶魔伪王国军",
+        "name": "茜里",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "アカリ"
+    },
+    {
+        "id": "100401",
+        "groupName": "小小甜心",
+        "name": "未奏希",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "ミソギ"
+    },
+    {
+        "id": "104601",
+        "groupName": "墨丘利财团",
+        "name": "珠希",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "2",
+        "jpName": "タマキ"
+    },
+    {
+        "id": "105801",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ペコリーヌ"
+    },
+    {
+        "id": "102201",
+        "groupName": "恶魔伪王国军",
+        "name": "依里",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "ヨリ"
+    },
+    {
+        "id": "104701",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "纯",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ジュン"
+    },
+    {
+        "id": "102601",
+        "groupName": "伊丽莎白牧场",
+        "name": "铃",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "リン"
+    },
+    {
+        "id": "106301",
+        "groupName": "？？？",
+        "name": "亚里莎",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "8",
+        "jpName": "アリサ"
+    },
+    {
+        "id": "103601",
+        "groupName": "小小甜心",
+        "name": "镜华",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "キョウカ"
+    },
+    {
+        "id": "101501",
+        "groupName": "森林守卫",
+        "name": "美里",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "9",
+        "jpName": "ミサト"
+    },
+    {
+        "id": "104401",
+        "groupName": "恶魔伪王国军",
+        "name": "伊莉亚",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "イリヤ"
+    },
+    {
+        "id": "106101",
+        "groupName": "？？？",
+        "name": "矛依未",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "2",
+        "jpName": "ムイミ"
+    },
+    {
+        "id": "107001",
+        "groupName": "？？？",
+        "name": "似似花",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ネネカ"
+    },
+    {
+        "id": "107801",
+        "groupName": "美食殿堂",
+        "name": "凯露（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "キャル（サマー）"
+    },
+    {
+        "id": "107101",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "克莉丝提娜",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "10",
+        "jpName": "クリスティーナ"
+    },
+    {
+        "id": "103701",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "智",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "トモ"
+    },
+    {
+        "id": "105601",
+        "groupName": "暮光流星群",
+        "name": "流夏",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "ルカ"
+    },
+    {
+        "id": "106501",
+        "groupName": "龙族据点",
+        "name": "嘉夜",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "カヤ"
+    },
+    {
+        "id": "112001",
+        "groupName": "美食殿堂",
+        "name": "凯露（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "キャル（ニューイヤー）"
+    },
+    {
+        "id": "108801",
+        "groupName": "破晓之星",
+        "name": "优衣（新年）",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "21",
+        "jpName": "ユイ（ニューイヤー）"
+    },
+    {
+        "id": "110301",
+        "groupName": "咲恋救济院",
+        "name": "咲恋（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "サレン（サマー）"
+    },
+    {
+        "id": "109201",
+        "groupName": "？？？",
+        "name": "安",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "23",
+        "jpName": "アン"
+    },
+    {
+        "id": "109401",
+        "groupName": "？？？",
+        "name": "古蕾雅",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "グレア"
+    },
+    {
+        "id": "109301",
+        "groupName": "？？？",
+        "name": "露",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "23",
+        "jpName": "ルゥ"
+    },
+    {
+        "id": "105401",
+        "groupName": "慈乐之音",
+        "name": "纺希",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "ツムギ"
+    },
+    {
+        "id": "107501",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆（夏日）",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "5",
+        "jpName": "ペコリーヌ（サマー）"
+    },
+    {
+        "id": "107901",
+        "groupName": "墨丘利财团",
+        "name": "珠希（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "タマキ（サマー）"
+    },
+    {
+        "id": "107701",
+        "groupName": "咲恋救济院",
+        "name": "铃莓（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "スズメ（サマー）"
+    },
+    {
+        "id": "101301",
+        "groupName": "暮光流星群",
+        "name": "七七香",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "7",
+        "jpName": "ナナカ"
+    },
+    {
+        "id": "100501",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "茉莉",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "2",
+        "jpName": "マツリ"
+    },
+    {
+        "id": "107601",
+        "groupName": "美食殿堂",
+        "name": "可可萝（夏日）",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "6",
+        "jpName": "コッコロ（サマー）"
+    },
+    {
+        "id": "111901",
+        "groupName": "美食殿堂",
+        "name": "可可萝（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "23",
+        "jpName": "コッコロ（ニューイヤー）"
+    },
+    {
+        "id": "110401",
+        "groupName": "自卫团",
+        "name": "真琴（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "マコト（サマー）"
+    },
+    {
+        "id": "110001",
+        "groupName": "月光学院",
+        "name": "铃奈（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "スズナ（サマー）"
+    },
+    {
+        "id": "111401",
+        "groupName": "？？？",
+        "name": "露娜",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "25",
+        "jpName": "ルナ"
+    },
+    {
+        "id": "111301",
+        "groupName": "小小甜心",
+        "name": "美美（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ミミ（ハロウィン）"
+    },
+    {
+        "id": "111101",
+        "groupName": "小小甜心",
+        "name": "镜华（万圣节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "キョウカ（ハロウィン）"
+    },
+    {
+        "id": "110601",
+        "groupName": "自卫团",
+        "name": "真步（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "マホ（サマー）"
+    },
+    {
+        "id": "108201",
+        "groupName": "恶魔伪王国军",
+        "name": "宫子（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ミヤコ（ハロウィン）"
+    },
+    {
+        "id": "101401",
+        "groupName": "自卫团",
+        "name": "香澄",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "21",
+        "jpName": "カスミ"
+    },
+    {
+        "id": "108101",
+        "groupName": "恶魔伪王国军",
+        "name": "忍（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "シノブ（ハロウィン）"
+    },
+    {
+        "id": "108301",
+        "groupName": "月光学院",
+        "name": "美咲（万圣节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ミサキ（ハロウィン）"
+    },
+    {
+        "id": "108401",
+        "groupName": "慈乐之音",
+        "name": "千歌（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "チカ（クリスマス）"
+    },
+    {
+        "id": "108601",
+        "groupName": "咲恋救济院",
+        "name": "绫音（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "アヤネ（クリスマス）"
+    },
+    {
+        "id": "108701",
+        "groupName": "破晓之星",
+        "name": "日和莉（新年）",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "1",
+        "jpName": "ヒヨリ（ニューイヤー）"
+    },
+    {
+        "id": "109101",
+        "groupName": "拉比林斯",
+        "name": "静流（情人节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "シズル（バレンタイン）"
+    },
+    {
+        "id": "109501",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "空花（大江户）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "クウカ（オーエド）"
+    },
+    {
+        "id": "109601",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "妮侬（大江户）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "ニノン（オーエド）"
+    },
+    {
+        "id": "111501",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "克莉丝提娜（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "10",
+        "jpName": "クリスティーナ（クリスマス）"
+    },
+    {
+        "id": "111701",
+        "groupName": "恶魔伪王国军",
+        "name": "伊莉亚（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "イリヤ（クリスマス）"
+    },
+    {
+        "id": "108001",
+        "groupName": "墨丘利财团",
+        "name": "美冬（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "ミフユ（サマー）"
+    },
+    {
+        "id": "108501",
+        "groupName": "咲恋救济院",
+        "name": "胡桃（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "クルミ（クリスマス）"
+    },
+    {
+        "id": "108901",
+        "groupName": "破晓之星",
+        "name": "怜（新年）",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "22",
+        "jpName": "レイ（ニューイヤー）"
+    },
+    {
+        "id": "109001",
+        "groupName": "暮光流星群",
+        "name": "惠理子（情人节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "エリコ（バレンタイン）"
+    },
+    {
+        "id": "110101",
+        "groupName": "月光学院",
+        "name": "伊绪（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "イオ（サマー）"
+    },
+    {
+        "id": "110501",
+        "groupName": "自卫团",
+        "name": "香织（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "カオリ（サマー）"
+    },
+    {
+        "id": "111601",
+        "groupName": "慈乐之音",
+        "name": "望（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ノゾミ（クリスマス）"
+    },
+    {
+        "id": "111201",
+        "groupName": "小小甜心",
+        "name": "未奏希（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ミソギ（ハロウィン）"
+    },
+    {
+        "id": "112101",
+        "groupName": "咲恋救济院",
+        "name": "铃莓（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "スズメ（ニューイヤー）"
+    },
+    {
+        "id": "180401",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆（公主）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ペコリーヌ（プリンセス）"
+    },
+    {
+        "id": "180501",
+        "groupName": "美食殿堂",
+        "name": "可可萝（公主）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "コッコロ（プリンセス）"
+    },
+    {
+        "id": "180201",
+        "groupName": "破晓之星",
+        "name": "优衣（公主）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ユイ（プリンセス）"
+    },
+    {
+        "id": "106601",
+        "groupName": "龙族据点",
+        "name": "祈梨",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "3",
+        "jpName": "イノリ"
+    },
+    {
+        "id": "110801",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "克罗依",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "クロエ"
+    },
+    {
+        "id": "110901",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "千爱瑠",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "チエル"
+    },
+    {
+        "id": "111001",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "优妮",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "26",
+        "jpName": "ユニ"
+    },
+    {
+        "id": "105501",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "步美",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "48",
+        "jpName": "アユミ"
+    },
+    {
+        "id": "109901",
+        "groupName": "？？？",
+        "name": "爱蜜莉雅",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "23",
+        "jpName": "エミリア"
+    },
+    {
+        "id": "109701",
+        "groupName": "？？？",
+        "name": "雷姆",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "24",
+        "jpName": "レム"
+    },
+    {
+        "id": "109801",
+        "groupName": "？？？",
+        "name": "拉姆",
+        "attackType": "魔法",
+        "hasRarity6": true,
+        "type": "24",
+        "jpName": "ラム"
+    },
+    {
+        "id": "113101",
+        "groupName": "暮光流星群",
+        "name": "流夏（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "27",
+        "jpName": "ルカ（サマー）"
+    },
+    {
+        "id": "113301",
+        "groupName": "暮光流星群",
+        "name": "七七香（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ナナカ（サマー）"
+    },
+    {
+        "id": "113201",
+        "groupName": "暮光流星群",
+        "name": "杏奈（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "28",
+        "jpName": "アンナ（サマー）"
+    },
+    {
+        "id": "113401",
+        "groupName": "森林守卫",
+        "name": "初音（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "29",
+        "jpName": "ハツネ（サマー）"
+    },
+    {
+        "id": "112201",
+        "groupName": "自卫团",
+        "name": "香澄（魔法少女）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "カスミ（マジカル）"
+    },
+    {
+        "id": "112301",
+        "groupName": "伊丽莎白牧场",
+        "name": "栞（魔法少女）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "シオリ（マジカル）"
+    },
+    {
+        "id": "112401",
+        "groupName": "New Generations",
+        "name": "卯月（偶像大师）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ウヅキ（デレマス）"
+    },
+    {
+        "id": "113001",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "步美（仙境）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "アユミ（ワンダー）"
+    },
+    {
+        "id": "112901",
+        "groupName": "拉比林斯",
+        "name": "璃乃（仙境）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "リノ（ワンダー）"
+    },
+    {
+        "id": "112801",
+        "groupName": "伊丽莎白牧场",
+        "name": "真阳（游骑兵）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "マヒル（レンジャー）"
+    },
+    {
+        "id": "112701",
+        "groupName": "伊丽莎白牧场",
+        "name": "铃（游骑兵）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "リン（レンジャー）"
+    },
+    {
+        "id": "112501",
+        "groupName": "New Generations",
+        "name": "凛（偶像大师）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "リン（デレマス）"
+    },
+    {
+        "id": "112601",
+        "groupName": "New Generations",
+        "name": "未央（偶像大师）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ミオ（デレマス）"
+    },
+    {
+        "id": "113501",
+        "groupName": "森林守卫",
+        "name": "美里（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ミサト（サマー）"
+    },
+    {
+        "id": "110701",
+        "groupName": "森林守卫",
+        "name": "碧（插班生）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "アオイ（編入生）"
+    },
+    {
+        "id": "113601",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "纯（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ジュン（サマー）"
+    },
+    {
+        "id": "113701",
+        "groupName": "恶魔伪王国军",
+        "name": "茜里（天使）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "アカリ（エンジェル）"
+    },
+    {
+        "id": "106801",
+        "groupName": "拉比林斯",
+        "name": "菈比莉斯塔",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ラビリスタ"
+    },
+    {
+        "id": "113801",
+        "groupName": "恶魔伪王国军",
+        "name": "依里（天使）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "ヨリ（エンジェル）"
+    },
+    {
+        "id": "170101",
+        "groupName": "？？？",
+        "name": "环奈",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "34",
+        "jpName": "ジータ"
+    },
+    {
+        "id": "114201",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "莫妮卡（魔法少女）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "モニカ（マジカル）"
+    },
+    {
+        "id": "114101",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "茉莉（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "マツリ（ハロウィン）"
+    },
+    {
+        "id": "114001",
+        "groupName": "破晓之星",
+        "name": "怜（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "レイ（ハロウィン）"
+    },
+    {
+        "id": "113901",
+        "groupName": "慈乐之音",
+        "name": "纺希（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "ツムギ（ハロウィン）"
+    },
+    {
+        "id": "115001",
+        "groupName": "？？？",
+        "name": "似似花（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ネネカ（ニューイヤー）"
+    },
+    {
+        "id": "111801",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "22",
+        "jpName": "ペコリーヌ（ニューイヤー）"
+    },
+    {
+        "id": "180101",
+        "groupName": "破晓之星",
+        "name": "日和莉（公主）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ヒヨリ（プリンセス）"
+    },
+    {
+        "id": "114701",
+        "groupName": "？？？",
+        "name": "矛依未（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "31",
+        "jpName": "ムイミ（ニューイヤー）"
+    },
+    {
+        "id": "114301",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "智（魔法少女）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "トモ（マジカル）"
+    },
+    {
+        "id": "114501",
+        "groupName": "咲恋救济院",
+        "name": "咲恋（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "サレン（クリスマス）"
+    },
+    {
+        "id": "114401",
+        "groupName": "墨丘利财团",
+        "name": "秋乃（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "アキノ（クリスマス）"
+    },
+    {
+        "id": "114601",
+        "groupName": "墨丘利财团",
+        "name": "由加莉（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ユカリ（クリスマス）"
+    },
+    {
+        "id": "106401",
+        "groupName": "美食殿堂",
+        "name": "雪菲",
+        "attackType": "物理",
+        "hasRarity6": true,
+        "type": "4",
+        "jpName": "シェフィ"
+    },
+    {
+        "id": "115901",
+        "groupName": "自卫团",
+        "name": "真琴（灰姑娘）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "マコト（シンデレラ）"
+    },
+    {
+        "id": "180601",
+        "groupName": "美食殿堂",
+        "name": "凯露（公主）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "キャル（プリンセス）"
+    },
+    {
+        "id": "115801",
+        "groupName": "伊丽莎白牧场",
+        "name": "莉玛（灰姑娘）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "リマ（シンデレラ）"
+    },
+    {
+        "id": "115701",
+        "groupName": "自卫团",
+        "name": "香澄（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "カスミ（サマー）"
+    },
+    {
+        "id": "115501",
+        "groupName": "美食殿堂",
+        "name": "可可萝（礼服）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "コッコロ（儀装束）"
+    },
+    {
+        "id": "115601",
+        "groupName": "破晓之星",
+        "name": "优衣（礼服）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ユイ（儀装束）"
+    },
+    {
+        "id": "116001",
+        "groupName": "自卫团",
+        "name": "真步（灰姑娘）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "マホ（シンデレラ）"
+    },
+    {
+        "id": "116201",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "克罗依（圣学祭）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "クロエ（聖学祭）"
+    },
+    {
+        "id": "116301",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "千爱瑠（圣学祭）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "32",
+        "jpName": "チエル（聖学祭）"
+    },
+    {
+        "id": "116501",
+        "groupName": "龙族据点",
+        "name": "祈梨（时间旅行）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "イノリ（タイムトラベル）"
+    },
+    {
+        "id": "116601",
+        "groupName": "龙族据点",
+        "name": "嘉夜（时间旅行）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "カヤ（タイムトラベル）"
+    },
+    {
+        "id": "116701",
+        "groupName": "森林守卫",
+        "name": "碧（工作服）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "33",
+        "jpName": "アオイ（作業服）"
+    },
+    {
+        "id": "116901",
+        "groupName": "墨丘利财团",
+        "name": "美冬（工作服）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "ミフユ（作業服）"
+    },
+    {
+        "id": "117101",
+        "groupName": "拉比林斯",
+        "name": "静流（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "シズル（サマー）"
+    },
+    {
+        "id": "117001",
+        "groupName": "暮光流星群",
+        "name": "惠理子（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "エリコ（サマー）"
+    },
+    {
+        "id": "180301",
+        "groupName": "破晓之星",
+        "name": "怜（公主）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "レイ（プリンセス）"
+    },
+    {
+        "id": "117201",
+        "groupName": "慈乐之音",
+        "name": "望（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ノゾミ（サマー）"
+    },
+    {
+        "id": "117401",
+        "groupName": "慈乐之音",
+        "name": "纺希（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ツムギ（サマー）"
+    },
+    {
+        "id": "116801",
+        "groupName": "墨丘利财团",
+        "name": "珠希（工作服）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "タマキ（作業服）"
+    },
+    {
+        "id": "117301",
+        "groupName": "慈乐之音",
+        "name": "千歌（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "チカ（サマー）"
+    },
+    {
+        "id": "117501",
+        "groupName": "暮光流星群",
+        "name": "深月（大江户）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ミツキ（オーエド）"
+    },
+    {
+        "id": "180701",
+        "groupName": "伊丽莎白牧场, 森林守卫",
+        "name": "初音、栞",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ハツネ＆シオリ"
+    },
+    {
+        "id": "117601",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "雪（大江户）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ユキ（オーエド）"
+    },
+    {
+        "id": "118001",
+        "groupName": "里士满商工会",
+        "name": "克蕾琪塔",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "35",
+        "jpName": "クレジッタ"
+    },
+    {
+        "id": "117701",
+        "groupName": "自卫团",
+        "name": "香织（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "カオリ（ハロウィン）"
+    },
+    {
+        "id": "117801",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "妮侬（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "36",
+        "jpName": "ニノン（ハロウィン）"
+    },
+    {
+        "id": "117901",
+        "groupName": "月光学院",
+        "name": "铃奈（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "スズナ（ハロウィン）"
+    },
+    {
+        "id": "106901",
+        "groupName": "？？？",
+        "name": "霸瞳皇帝",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "カイザーインサイト"
+    },
+    {
+        "id": "123001",
+        "groupName": "？？？",
+        "name": "爱梅斯",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "44",
+        "jpName": "アメス"
+    },
+    {
+        "id": "118501",
+        "groupName": "？？？",
+        "name": "花凛",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "37",
+        "jpName": "カリン"
+    },
+    {
+        "id": "106701",
+        "groupName": "龙族据点",
+        "name": "帆稀",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ホマレ"
+    },
+    {
+        "id": "119001",
+        "groupName": "月光学院",
+        "name": "伊绪（黑暗）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "イオ（ノワール）"
+    },
+    {
+        "id": "119101",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "空花（黑暗）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "26",
+        "jpName": "クウカ（ノワール）"
+    },
+    {
+        "id": "119301",
+        "groupName": "拉比林斯",
+        "name": "璃乃（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "リノ（クリスマス）"
+    },
+    {
+        "id": "119901",
+        "groupName": "恶魔伪王国军",
+        "name": "宫子（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ミヤコ（クリスマス）"
+    },
+    {
+        "id": "119201",
+        "groupName": "伊丽莎白牧场",
+        "name": "真阳（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "マヒル（クリスマス）"
+    },
+    {
+        "id": "120701",
+        "groupName": "美食殿堂",
+        "name": "雪菲（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "22",
+        "jpName": "シェフィ（ニューイヤー）"
+    },
+    {
+        "id": "120901",
+        "groupName": "恶魔伪王国军",
+        "name": "伊莉亚（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "38",
+        "jpName": "イリヤ（ニューイヤー）"
+    },
+    {
+        "id": "120801",
+        "groupName": "暮光流星群",
+        "name": "流夏（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "22",
+        "jpName": "ルカ（ニューイヤー）"
+    },
+    {
+        "id": "180801",
+        "groupName": "小小甜心",
+        "name": "未奏希、美美、镜华",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ミソギ＆ミミ＆キョウカ"
+    },
+    {
+        "id": "121001",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆（超负荷）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "41",
+        "jpName": "ペコリーヌ（オーバーロード）"
+    },
+    {
+        "id": "121201",
+        "groupName": "拉比林斯",
+        "name": "菈比莉斯塔（超负荷）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "40",
+        "jpName": "ラビリスタ（オーバーロード）"
+    },
+    {
+        "id": "116401",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "优妮（圣学祭）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "39",
+        "jpName": "ユニ（聖学祭）"
+    },
+    {
+        "id": "121101",
+        "groupName": "美食殿堂",
+        "name": "凯露（超负荷）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "42",
+        "jpName": "キャル（オーバーロード）"
+    },
+    {
+        "id": "118101",
+        "groupName": "愤怒军团",
+        "name": "兰法",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ランファ"
+    },
+    {
+        "id": "121301",
+        "groupName": "咲恋救济院",
+        "name": "胡桃（舞台）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "クルミ（ステージ）"
+    },
+    {
+        "id": "121401",
+        "groupName": "月光学院",
+        "name": "美咲（舞台）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ミサキ（ステージ）"
+    },
+    {
+        "id": "121501",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "步美（怪盗）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "アユミ（怪盗）"
+    },
+    {
+        "id": "121601",
+        "groupName": "龙族据点",
+        "name": "祈梨（怪盗）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "イノリ（怪盗）"
+    },
+    {
+        "id": "180901",
+        "groupName": "咲恋救济院, 墨丘利财团",
+        "name": "秋乃、咲恋",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "アキノ＆サレン"
+    },
+    {
+        "id": "122001",
+        "groupName": "恶魔伪王国军",
+        "name": "忍（海盗）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "シノブ（パイレーツ）"
+    },
+    {
+        "id": "121901",
+        "groupName": "暮光流星群",
+        "name": "杏奈（海盗）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "アンナ（パイレーツ）"
+    },
+    {
+        "id": "122101",
+        "groupName": "森林守卫",
+        "name": "碧（露营）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "35",
+        "jpName": "アオイ（キャンプ）"
+    },
+    {
+        "id": "122201",
+        "groupName": "墨丘利财团",
+        "name": "由加莉（露营）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ユカリ（キャンプ）"
+    },
+    {
+        "id": "122301",
+        "groupName": "？？？",
+        "name": "斑比",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "43",
+        "jpName": "ヴァンピィ"
+    },
+    {
+        "id": "122401",
+        "groupName": "破晓之星",
+        "name": "日和莉（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ヒヨリ（サマー）"
+    },
+    {
+        "id": "122501",
+        "groupName": "破晓之星",
+        "name": "怜（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "レイ（サマー）"
+    },
+    {
+        "id": "122601",
+        "groupName": "破晓之星",
+        "name": "优衣（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ユイ（サマー）"
+    },
+    {
+        "id": "122801",
+        "groupName": "小小甜心",
+        "name": "未奏希（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "ミソギ（サマー）"
+    },
+    {
+        "id": "122901",
+        "groupName": "小小甜心",
+        "name": "美美（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ミミ（サマー）"
+    },
+    {
+        "id": "122701",
+        "groupName": "小小甜心",
+        "name": "镜华（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "キョウカ（サマー）"
+    },
+    {
+        "id": "123101",
+        "groupName": "自卫团",
+        "name": "真步（探索者）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "マホ（エクスプローラー）"
+    },
+    {
+        "id": "123201",
+        "groupName": "咲恋救济院",
+        "name": "绫音（探索者）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "アヤネ（エクスプローラー）"
+    },
+    {
+        "id": "123301",
+        "groupName": "愤怒军团",
+        "name": "涅亚",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ネア"
+    },
+    {
+        "id": "123501",
+        "groupName": "伊丽莎白牧场",
+        "name": "铃（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "リン（ハロウィン）"
+    },
+    {
+        "id": "123601",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "智（万圣节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "トモ（ハロウィン）"
+    },
+    {
+        "id": "123701",
+        "groupName": "暮光流星群",
+        "name": "七七香（万圣节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ナナカ（ハロウィン）"
+    },
+    {
+        "id": "123801",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "克莉丝提娜（狂野）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "クリスティーナ（ワイルド）"
+    },
+    {
+        "id": "123901",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "茉莉（狂野）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "マツリ（ワイルド）"
+    },
+    {
+        "id": "124001",
+        "groupName": "恶魔伪王国军",
+        "name": "茜里（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "アカリ（クリスマス）"
+    },
+    {
+        "id": "124101",
+        "groupName": "恶魔伪王国军",
+        "name": "依里（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "ヨリ（クリスマス）"
+    },
+    {
+        "id": "124201",
+        "groupName": "王宫骑士团（NIGHTMARE）",
+        "name": "纯（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ジュン（クリスマス）"
+    },
+    {
+        "id": "181001",
+        "groupName": "？？？",
+        "name": "安、古蕾雅",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "アン＆グレア"
+    },
+    {
+        "id": "124601",
+        "groupName": "森林守卫",
+        "name": "美里（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ミサト（ニューイヤー）"
+    },
+    {
+        "id": "124701",
+        "groupName": "暮光流星群",
+        "name": "深月（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "46",
+        "jpName": "ミツキ（ニューイヤー）"
+    },
+    {
+        "id": "124501",
+        "groupName": "龙族据点",
+        "name": "帆稀（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ホマレ（ニューイヤー）"
+    },
+    {
+        "id": "124801",
+        "groupName": "慈乐之音",
+        "name": "望（解放者）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ノゾミ（リベレイター）"
+    },
+    {
+        "id": "124901",
+        "groupName": "龙族据点",
+        "name": "嘉夜（解放者）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "カヤ（リベレイター）"
+    },
+    {
+        "id": "125001",
+        "groupName": "？？？",
+        "name": "矛依未（解放者）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ムイミ（リベレイター）"
+    },
+    {
+        "id": "118201",
+        "groupName": "愤怒军团",
+        "name": "美空",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ミソラ"
+    },
+    {
+        "id": "125101",
+        "groupName": "墨丘利财团",
+        "name": "珠希（咖啡厅）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "47",
+        "jpName": "タマキ（カフェ）"
+    },
+    {
+        "id": "125201",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "莫妮卡（咖啡厅）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "モニカ（カフェ）"
+    },
+    {
+        "id": "120001",
+        "groupName": "拉比林斯",
+        "name": "静流（黑暗）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "シズル（ノワール）"
+    },
+    {
+        "id": "125301",
+        "groupName": "美食殿堂",
+        "name": "可可萝（游骑兵）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "6",
+        "jpName": "コッコロ（レンジャー）"
+    },
+    {
+        "id": "125401",
+        "groupName": "伊丽莎白牧场",
+        "name": "栞（游骑兵）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "シオリ（レンジャー）"
+    },
+    {
+        "id": "125801",
+        "groupName": "アルターメイデン（幻变少女）",
+        "name": "莉莉（堕天使）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "リリ（フォールン）"
+    },
+    {
+        "id": "125501",
+        "groupName": "？？？",
+        "name": "姬塔（术士）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "50",
+        "jpName": "ジータ（ウォーロック）"
+    },
+    {
+        "id": "125701",
+        "groupName": "？？？",
+        "name": "花凛（炼金术师）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "9",
+        "jpName": "カリン（アルケミスト）"
+    },
+    {
+        "id": "125601",
+        "groupName": "？？？",
+        "name": "碧卡拉",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ビカラ"
+    },
+    {
+        "id": "126201",
+        "groupName": "恶魔伪王国军",
+        "name": "伊莉亚（礼服）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "3",
+        "jpName": "イリヤ（儀装束）"
+    },
+    {
+        "id": "126401",
+        "groupName": "？？？",
+        "name": "克萝茜",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "クローチェ"
+    },
+    {
+        "id": "126301",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "雪（礼服）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "9",
+        "jpName": "ユキ（儀装束）"
+    },
+    {
+        "id": "126601",
+        "groupName": "？？？",
+        "name": "似似花（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ネネカ（サマー）"
+    },
+    {
+        "id": "126701",
+        "groupName": "墨丘利财团",
+        "name": "秋乃（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "アキノ（サマー）"
+    },
+    {
+        "id": "126801",
+        "groupName": "墨丘利财团",
+        "name": "由加莉（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ユカリ（サマー）"
+    },
+    {
+        "id": "126901",
+        "groupName": "愤怒军团",
+        "name": "兰法（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ランファ（サマー）"
+    },
+    {
+        "id": "127001",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "空花（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "52",
+        "jpName": "クウカ（サマー）"
+    },
+    {
+        "id": "127101",
+        "groupName": "恶魔伪王国军",
+        "name": "忍（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "46",
+        "jpName": "シノブ（サマー）"
+    },
+    {
+        "id": "127201",
+        "groupName": "美食殿堂",
+        "name": "凯露（插班生）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "キャル（編入生）"
+    },
+    {
+        "id": "127301",
+        "groupName": "月光学院",
+        "name": "铃奈（插班生）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "8",
+        "jpName": "スズナ（編入生）"
+    },
+    {
+        "id": "126501",
+        "groupName": "ジオ・テオゴニア",
+        "name": "莱拉耶尔",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ライラエル"
+    },
+    {
+        "id": "127501",
+        "groupName": "咲恋救济院",
+        "name": "咲恋（沙漠）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "サレン（サラサリア）"
+    },
+    {
+        "id": "126001",
+        "groupName": "アルターメイデン（幻变少女）",
+        "name": "可璃亚（堕天使）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "クリア（フォールン）"
+    },
+    {
+        "id": "127601",
+        "groupName": "暮光流星群",
+        "name": "流夏（沙漠）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "ルカ（サラサリア）"
+    },
+    {
+        "id": "126101",
+        "groupName": "アルターメイデン（幻变少女）",
+        "name": "普雷西娅（堕天使）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "53",
+        "jpName": "プレシア（フォールン）"
+    },
+    {
+        "id": "127901",
+        "groupName": "美食殿堂",
+        "name": "佩可莉姆（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "ペコリーヌ（クリスマス）"
+    },
+    {
+        "id": "128001",
+        "groupName": "里士满商工会",
+        "name": "克蕾琪塔（圣诞节）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "35",
+        "jpName": "クレジッタ（クリスマス）"
+    },
+    {
+        "id": "128301",
+        "groupName": "龙族据点",
+        "name": "祈梨（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "38",
+        "jpName": "イノリ（ニューイヤー）"
+    },
+    {
+        "id": "181101",
+        "groupName": "拉比林斯",
+        "name": "静流、璃乃",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "シズル＆リノ"
+    },
+    {
+        "id": "128401",
+        "groupName": "森林守卫",
+        "name": "初音（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ハツネ（ニューイヤー）"
+    },
+    {
+        "id": "128501",
+        "groupName": "自卫团",
+        "name": "香澄（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "カスミ（ニューイヤー）"
+    },
+    {
+        "id": "128801",
+        "groupName": "破晓之星",
+        "name": "怜（星幽）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "レイ（アストラル）"
+    },
+    {
+        "id": "128901",
+        "groupName": "破晓之星",
+        "name": "优衣（星幽）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ユイ（アストラル）"
+    },
+    {
+        "id": "128701",
+        "groupName": "破晓之星",
+        "name": "日和莉（星幽）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ヒヨリ（アストラル）"
+    },
+    {
+        "id": "129001",
+        "groupName": "？？？",
+        "name": "厄里斯",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "エリス"
+    },
+    {
+        "id": "129301",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "优妮（冬日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ユニ（ウィンター）"
+    },
+    {
+        "id": "129401",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "克罗依（冬日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "2",
+        "jpName": "クロエ（ウィンター）"
+    },
+    {
+        "id": "129801",
+        "groupName": "自卫团",
+        "name": "真琴（教官）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "5",
+        "jpName": "マコト（コマンダー）"
+    },
+    {
+        "id": "129901",
+        "groupName": "暮光流星群",
+        "name": "惠理子（教官）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "48",
+        "jpName": "エリコ（コマンダー）"
+    },
+    {
+        "id": "130801",
+        "groupName": "咲恋救济院",
+        "name": "铃莓（春日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "スズメ（スプリング）"
+    },
+    {
+        "id": "130701",
+        "groupName": "小小甜心",
+        "name": "镜华（春日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "キョウカ（スプリング）"
+    },
+    {
+        "id": "129601",
+        "groupName": "？？？",
+        "name": "银莲",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "アネモネ"
+    },
+    {
+        "id": "131001",
+        "groupName": "自卫团",
+        "name": "真步（梦想乐园）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "マホ（ドリームパーク）"
+    },
+    {
+        "id": "130901",
+        "groupName": "ジオ・テオゴニア",
+        "name": "库露露",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "クルル"
+    },
+    {
+        "id": "131101",
+        "groupName": "愤怒军团",
+        "name": "涅亚（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "52",
+        "jpName": "ネア（サマー）"
+    },
+    {
+        "id": "129701",
+        "groupName": "？？？",
+        "name": "涅妃涅菈",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ネフィ＝ネラ"
+    },
+    {
+        "id": "131201",
+        "groupName": "愤怒军团",
+        "name": "美空（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "35",
+        "jpName": "ミソラ（サマー）"
+    },
+    {
+        "id": "131601",
+        "groupName": "アルターメイデン",
+        "name": "莉莉（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "4",
+        "jpName": "リリ（サマー）"
+    },
+    {
+        "id": "131701",
+        "groupName": "？？？",
+        "name": "爱梅斯（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "53",
+        "jpName": "アメス（サマー）"
+    },
+    {
+        "id": "118601",
+        "groupName": "？？？",
+        "name": "涅比亚",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ネビア"
+    },
+    {
+        "id": "131801",
+        "groupName": "龙族据点",
+        "name": "帆稀（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "ホマレ（サマー）"
+    },
+    {
+        "id": "181201",
+        "groupName": "美食殿堂",
+        "name": "雪菲（公主）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "シェフィ（プリンセス）"
+    },
+    {
+        "id": "131901",
+        "groupName": "？？？",
+        "name": "爱蜜莉雅（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "23",
+        "jpName": "エミリア（サマー）"
+    },
+    {
+        "id": "132101",
+        "groupName": "？？？",
+        "name": "雷姆（夏日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "24",
+        "jpName": "レム（サマー）"
+    },
+    {
+        "id": "132001",
+        "groupName": "？？？",
+        "name": "艾姬多娜（夏日）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "21",
+        "jpName": "エキドナ（サマー）"
+    },
+    {
+        "id": "132201",
+        "groupName": "慈乐之音",
+        "name": "望（炼金术师）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "7",
+        "jpName": "ノゾミ（アルケミスト）"
+    },
+    {
+        "id": "127701",
+        "groupName": "？？？",
+        "name": "琳德",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "48",
+        "jpName": "リンド"
+    },
+    {
+        "id": "127801",
+        "groupName": "？？？",
+        "name": "乌尔姆",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "47",
+        "jpName": "ヴルム"
+    },
+    {
+        "id": "130001",
+        "groupName": "バンディ・シスターズ（邦迪姐妹）",
+        "name": "倭",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ヤマト"
+    },
+    {
+        "id": "130201",
+        "groupName": "バンディ・シスターズ（邦迪姐妹）",
+        "name": "布武机",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "フブキ"
+    },
+    {
+        "id": "130101",
+        "groupName": "バンディ・シスターズ（邦迪姐妹）",
+        "name": "若菜",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "9",
+        "jpName": "ワカナ"
+    },
+    {
+        "id": "133201",
+        "groupName": "纯白之翼 兰德索尔分部",
+        "name": "莫妮卡（新年）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "22",
+        "jpName": "モニカ（ニューイヤー）"
+    },
+    {
+        "id": "133001",
+        "groupName": "？？？",
+        "name": "格蕾斯",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "グレイス"
+    },
+    {
+        "id": "129501",
+        "groupName": "圣特蕾莎女子学院（好朋友社）",
+        "name": "千爱瑠（冬日）",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "1",
+        "jpName": "チエル（ウィンター）"
+    },
+    {
+        "id": "133501",
+        "groupName": "咲恋救济院",
+        "name": "咲恋（新年）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "22",
+        "jpName": "サレン（ニューイヤー）"
+    },
+    {
+        "id": "132801",
+        "groupName": "ジオ・テオゴニア",
+        "name": "莱拉耶尔（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "ライラエル（クリスマス）"
+    },
+    {
+        "id": "133601",
+        "groupName": "？？？",
+        "name": "美杜莎",
+        "attackType": "物理",
+        "hasRarity6": false,
+        "type": "0",
+        "jpName": "メドゥーサ"
+    },
+    {
+        "id": "132901",
+        "groupName": "月光学院",
+        "name": "伊绪（圣诞节）",
+        "attackType": "魔法",
+        "hasRarity6": false,
+        "type": "46",
+        "jpName": "イオ（クリスマス）"
+    }
+]
